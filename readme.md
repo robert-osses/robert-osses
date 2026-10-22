@@ -3,7 +3,7 @@
 ### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=robert-osses.robert-osses&left_text=Profile%20Views&left_color=gray&right_color=blueviolet)](https://github.com/robert-osses)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/roberto-osses-vecchi-b783b845)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-osses-vecchi-b783b845)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
 
 ---
