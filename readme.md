@@ -1,8 +1,8 @@
-# Hola 👋, soy Roberto Ossès Vecchi
+# Hola 👋, soy Roberto Ossès Vecchi[cite: 1]
 
-### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud (AWS)
+### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud (AWS)[cite: 1]
 
-[![Profile Views](https://komarev.com/ghpvc/?username=profe-robert&color=blueviolet&style=flat-square)](https://github.com/profe-robert)
+[![Profile Views](https://komarev.com/ghpvc/?username=robert-osses&color=blueviolet&style=flat-square)](https://github.com/robert-osses)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
 
@@ -10,12 +10,12 @@
 
 ### 📌 Sobre mí
 
-Ingeniero y docente radicado en Santiago de Chile con más de 18 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico. Actualmente me desempeño como **Arquitecto de Software** en la Unidad de Ciber-operaciones (Regimiento de Inteligencia Nº2 "Llaitún") y como **Docente de Pregrado en DUOC UC**, guiando a futuras generaciones en desarrollo fullstack, arquitectura de software, bases de datos y algoritmos.
+Ingeniero y docente radicado en Santiago de Chile con más de 18 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico[cite: 1]. Actualmente me desempeño como **Arquitecto de Software** en la Unidad de Ciber-operaciones (Regimiento de Inteligencia Nº2 "Llaitún") y como **Docente de Pregrado en DUOC UC**, guiando a futuras generaciones en desarrollo fullstack, arquitectura de software, bases de datos y algoritmos[cite: 1].
 
-Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, la mejora continua y la agilidad.
+Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, la mejora continua y la agilidad[cite: 1, 2].
 
 > [!NOTE]
-> **Enfoque actual:** Microservicios escalables, gobierno de datos institucional (DAMA-DMBOK), soluciones cloud en AWS y modernización de interfaces web.
+> **Enfoque actual:** Microservicios escalables, gobierno de datos institucional (DAMA-DMBOK), soluciones cloud en AWS y modernización de interfaces web[cite: 1].
 
 ---
 
@@ -23,10 +23,10 @@ Me apasiona la innovación, la transferencia activa de conocimiento, la construc
 
 Más allá del código y la arquitectura de sistemas:
 
-* **Geek & Gamer:** Apasionado por los videojuegos, las dinámicas de juego competitivas y el análisis de mecánicas interactivas.
-* **Desarrollo creativo:** Exploración y experimentación personal en desarrollo interactivo y entornos 3D con **Unreal Engine**.
+* **Geek & Gamer:** Apasionado por los videojuegos, las dinámicas de juego competitivas y el análisis de mecánicas interactivas[cite: 4].
+* **Desarrollo creativo:** Exploración y experimentación personal en desarrollo interactivo y entornos 3D con **Unreal Engine**[cite: 3].
 * **Entornos Linux:** Entusiasta de la personalización de entornos de trabajo, automatización de flujos y herramientas open-source.
-* **Idiomas y culturas:** Español (nativo), Inglés (técnico B1) y aprendizaje básico de Neerlandés.
+* **Idiomas y culturas:** Español (nativo), Inglés (técnico B1) y aprendizaje básico de Neerlandés[cite: 4].
 
 ---
 
@@ -59,8 +59,8 @@ Más allá del código y la arquitectura de sistemas:
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 #### Arquitectura, Métodos y Estándares
-* **Arquitectura:** Microservicios, REST APIs, SOA, Clean Architecture, DDD, Patrones de Diseño.
-* **Gobernanza y Agilidad:** Gobierno de Datos (DAMA-DMBOK), Scrum (Scrum Master Certified), Kanban, GEIT (ISACA).
+* **Arquitectura:** Microservicios, REST APIs, SOA, Clean Architecture, DDD, Patrones de Diseño[cite: 2].
+* **Gobernanza y Agilidad:** Gobierno de Datos (DAMA-DMBOK), Scrum (Scrum Master Certified), Kanban, GEIT (ISACA)[cite: 1, 3].
 
 ---
 
@@ -69,25 +69,3 @@ Más allá del código y la arquitectura de sistemas:
 <details>
   <summary><b>Ver hitos de arquitectura y gestión institucional</b></summary>
   <br>
-
-  * **Proyecto de Gestión de Datos Institucional:** Extracción y catalogación de más de 15 sistemas institucionales para la creación del primer diccionario de datos con Oracle 19c + ETL.
-  * **Sistema de Planificación y Organización:** Arquitectura basada en microservicios para la consolidación de más de 30.000 puestos y unidades.
-  * **Sistema de Mando, Dirección y Control Estratégico:** Plataforma de seguimiento operacional basada en KPIs y trazabilidad estratégica.
-  * **Sistemas de Administración de Personal y Entrenamiento:** Digitalización integral de resoluciones, contrataciones, remuneraciones y métricas operativas.
-</details>
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=profe-robert&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profe-robert&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Contacto
-
-* **Email:** [r.osses.v@gmail.com](mailto:r.osses.v@gmail.com)
-* **Ubicación:** Santiago, Chile
