@@ -1,9 +1,14 @@
 # Hola 👋, soy Roberto Ossès Vecchi
 
 ### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=robert-osses.repoName) [![GitHub followers](https://img.shields.io/github/followers/robert-osses.svg?style=social&label=Follow)](https://github.com/robert-osses?tab=followers)<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-osses-vecchi-b783b845)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=robert-osses.repoName) 
+[![GitHub followers](https://img.shields.io/github/followers/robert-osses.svg?style=social&label=Follow)](https://github.com/robert-osses?tab=followers) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-osses-vecchi-b783b845)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-osses-vecchi-b783b845)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-osses-vecchi-b783b845)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
 
 ---
 
