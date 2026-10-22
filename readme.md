@@ -1,4 +1,4 @@
-# Hola 👋, soy Roberto Ossès Vecchi[cite: 1]
+# Hola 👋, soy Roberto Ossès Vecchi
 
 ### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud
 
@@ -10,9 +10,9 @@
 
 ### 📌 Sobre mí
 
-Ingeniero y docente radicado en Santiago de Chile con más de 18 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico. Actualmente me desempeño como **Ingeniero de Proyectos de TI y Desarrollador Senior** en Ejército de Chile y como **Docente de Pregrado en DUOC UC**, guiando a futuras generaciones en desarrollo fullstack, arquitectura de software, bases de datos y algoritmos.
+Ingeniero y docente radicado en Santiago de Chile con más de 20 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico. Actualmente me desempeño como **Ingeniero de Proyectos de TI y Desarrollador Senior** en Ejército de Chile y como **Docente de Pregrado en DUOC UC**, acompañando en su proceso formativo a futuras generaciones en desarrolladores fullstack, arquitectos de software y analistas de datos.
 
-Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, la mejora continua y la agilidad.
+Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, el respeto, la mejora continua y la agilidad.
 
 > [!NOTE]
 > **Enfoque actual e I+D:** 
