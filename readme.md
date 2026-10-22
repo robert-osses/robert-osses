@@ -1,21 +1,31 @@
 # Hola 👋, soy Roberto Ossès Vecchi[cite: 1]
 
-### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud (AWS)[cite: 1]
+### 👨‍💻 Ingeniero Civil en Computación e Informática | Lead Developer | Arquitecto Cloud
 
 [![Profile Views](https://komarev.com/ghpvc/?username=robert-osses&color=blueviolet&style=flat-square)](https://github.com/robert-osses)
+
+[![Profile Views](https://hits.sh/github.com/robert-osses.svg?style=flat-square&label=Profile%20Views&color=6f42c1)](https://hits.sh/github.com/robert-osses/)
+
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=robert-osses.robert-osses&left_text=Profile%20Views&left_color=gray&right_color=blueviolet)](https://github.com/robert-osses)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r.osses.v@gmail.com)
 
 ---
 
 ### 📌 Sobre mí
 
-Ingeniero y docente radicado en Santiago de Chile con más de 18 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico[cite: 1]. Actualmente me desempeño como **Arquitecto de Software** en la Unidad de Ciber-operaciones (Regimiento de Inteligencia Nº2 "Llaitún") y como **Docente de Pregrado en DUOC UC**, guiando a futuras generaciones en desarrollo fullstack, arquitectura de software, bases de datos y algoritmos[cite: 1].
+Ingeniero y docente radicado en Santiago de Chile con más de 18 años de experiencia en desarrollo backend, frontend, arquitectura cloud y liderazgo técnico. Actualmente me desempeño como **Ingeniero de Proyectos de TI y Desarrollador Senior** en Ejército de Chile y como **Docente de Pregrado en DUOC UC**, guiando a futuras generaciones en desarrollo fullstack, arquitectura de software, bases de datos y algoritmos.
 
-Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, la mejora continua y la agilidad[cite: 1, 2].
+Me apasiona la innovación, la transferencia activa de conocimiento, la construcción de arquitecturas limpias y el fomento de una cultura de equipo basada en la empatía, la mejora continua y la agilidad.
 
 > [!NOTE]
-> **Enfoque actual:** Microservicios escalables, gobierno de datos institucional (DAMA-DMBOK), soluciones cloud en AWS y modernización de interfaces web[cite: 1].
+> **Enfoque actual e I+D:** 
+> * **Agentic Engineering & SDD:** Diseño e implementación de flujos basados en *Spec-Driven Development* (SDD) para el desarrollo guiado por agentes autónomos de IA.
+> * **Token Efficiency & Context Optimization:** Optimización de ventanas de contexto, diseño de prompts técnicos eficientes y reducción de consumo de tokens en arquitecturas LLM.
+> * **Game Development:** Desarrollo interactivo y experimentación en 2D/3D utilizando **Godot Engine** y Unreal Engine.
+> * **Arquitectura Empresarial:** Microservicios escalables, gobierno de datos institucional (DAMA-DMBOK) y soluciones cloud en AWS.
 
 ---
 
@@ -23,10 +33,13 @@ Me apasiona la innovación, la transferencia activa de conocimiento, la construc
 
 Más allá del código y la arquitectura de sistemas:
 
-* **Geek & Gamer:** Apasionado por los videojuegos, las dinámicas de juego competitivas y el análisis de mecánicas interactivas[cite: 4].
-* **Desarrollo creativo:** Exploración y experimentación personal en desarrollo interactivo y entornos 3D con **Unreal Engine**[cite: 3].
+* **Geek & Gamer:** Apasionado por los videojuegos, las dinámicas de juego competitivas y el análisis de mecánicas interactivas.
+* **Desarrollo creativo:** Exploración y experimentación personal en desarrollo interactivo y entornos 3D con **Unreal Engine**.
 * **Entornos Linux:** Entusiasta de la personalización de entornos de trabajo, automatización de flujos y herramientas open-source.
-* **Idiomas y culturas:** Español (nativo), Inglés (técnico B1) y aprendizaje básico de Neerlandés[cite: 4].
+* **Idiomas y culturas:** Español (nativo), Inglés (técnico B1) y aprendizaje básico de Neerlandés.
+
+* **Desarrollo creativo y videojuegos:** Experimentación en diseño lúdico y mecánicas interactivas con **Godot Engine** y **Unreal Engine**.
+* **Inteligencia Artificial Aplicada:** Exploración activa de flujos de trabajo basados en *Agentic Engineering*, orquestación de agentes y optimización de contexto (*Token Efficiency*).
 
 ---
 
@@ -58,9 +71,18 @@ Más allá del código y la arquitectura de sistemas:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
+#### Desarrollo de Videojuegos & Entornos
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+#### Inteligencia Artificial & Metodologías Emergentes
+* **Metodologías de IA:** Spec-Driven Development (SDD), Agentic Engineering, Optimización de Tokens (Token Efficiency).
+* **Arquitectura:** Microservicios, REST APIs, Clean Architecture, DDD, Patrones de Diseño.
+* **Gobernanza y Agilidad:** Gobierno de Datos (DAMA-DMBOK), Scrum (Scrum Master Certified), Kanban, GEIT (ISACA).
+
 #### Arquitectura, Métodos y Estándares
 * **Arquitectura:** Microservicios, REST APIs, SOA, Clean Architecture, DDD, Patrones de Diseño[cite: 2].
-* **Gobernanza y Agilidad:** Gobierno de Datos (DAMA-DMBOK), Scrum (Scrum Master Certified), Kanban, GEIT (ISACA)[cite: 1, 3].
+* **Gobernanza y Agilidad:** Gobierno de Datos (DAMA-DMBOK), Scrum (Scrum Master Certified), Kanban, GEIT (ISACA).
 
 ---
 
